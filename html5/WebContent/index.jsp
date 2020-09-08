@@ -53,5 +53,40 @@
 		
 		</table>	
 	
+	<br>
+	<!-- imagenes -->
+	<h1>Imagenes en una pagina web</h1>
+	<img src="imagenes/pinguino.jpg"  width="200" heigth="200" align="left" alt="no se puede mostarar la imagen">
+	<img src="imagenes/pinguino.jpg"  width="200" heigth="300" align="right" alt="no se puede mostarar la imagen">
+	
+	<br>
+	<br>
+	<!-- Ejemplo de tabla 2 -->
+		<table cellspacing="4" cellpadding="3" border="2">
+			<tr>
+				<td align="center" >Pinguinos</td>
+				<td align="center" >Tulipanes</td>
+				<td align="center" >Desierto</td>
+			</tr>
+			<tr>
+				<td>
+					<img src="imagenes/pinguino.jpg"  width="200" heigth="200" align="left" alt="no se puede mostarar la imagen">
+				</td>
+			
+				<td>
+					<img src="imagenes/tulipanes.jpg"  width="200" heigth="200" align="center" alt="no se puede mostarar la imagen">
+				</td>
+			
+				<td>
+					<img src="imagenes/desierto.jpg"  width="200" heigth="200" align="right" alt="no se puede mostarar la imagen">
+				</td>
+			</tr>
+			
+		
+		</table>	
+	
+
+	
+	
 </body>
 </html>
